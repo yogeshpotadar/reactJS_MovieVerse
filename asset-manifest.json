@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactJS_MovieVerse/static/css/main.92b9b0ec.css",
+    "main.js": "/reactJS_MovieVerse/static/js/main.a62f12c6.js",
+    "index.html": "/reactJS_MovieVerse/index.html",
+    "main.92b9b0ec.css.map": "/reactJS_MovieVerse/static/css/main.92b9b0ec.css.map",
+    "main.a62f12c6.js.map": "/reactJS_MovieVerse/static/js/main.a62f12c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92b9b0ec.css",
+    "static/js/main.a62f12c6.js"
+  ]
+}
